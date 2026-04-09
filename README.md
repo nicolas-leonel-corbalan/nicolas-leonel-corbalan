@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hello there, I'm Leo 👋
 
-<!--
-**nicolas-leonel-corbalan/nicolas-leonel-corbalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack web developer focused on building things people actually use.
+Currently looking for a job while also working on projects that solve real problems (or at least try to).
 
-Here are some ideas to get you started:
+### 📦️ Tech I Like To Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React, Vue, Astro
+- JavaScript / TypeScript
+- HTML, CSS, Tailwind, Bootstrap
+- Node.js, Express
+- Laravel (PHP)
+- MySQL, MongoDB
+
+### 💻️ What I'm Into
+
+I enjoy creating simple, useful stuff.
+Tools, small apps, ideas that turn into something real.
+I care about making things clean, fast, and easy to use.
+
+### 🌱 Right Now
+
+- Actively looking for a job
+- Improving my skills every day
+- Building projects with actual purpose
+- Trying new things and experimenting with some ideas
+
+### 🌈 Fun Facts
+
+- I don’t drink coffee (yeah, weird for a dev)
+- I have 2 dogs 🐶
+- I’m a pretty curious person, always thinking about ideas
+- Sometimes I just go for a walk to clear my head or think about stuff
+
+---
+
+I keep most projects private until they reach MVP, but feel free to reach out 🙂
