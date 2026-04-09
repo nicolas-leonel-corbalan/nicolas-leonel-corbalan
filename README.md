@@ -12,18 +12,9 @@ Currently looking for a job while also working on projects that solve real probl
 - Laravel (PHP)
 - MySQL, MongoDB
 
-### 💻️ What I'm Into
+### 💻️ What I'm Doing Now
 
-I enjoy creating simple, useful stuff.
-Tools, small apps, ideas that turn into something real.
-I care about making things clean, fast, and easy to use.
-
-### 🌱 Right Now
-
-- Actively looking for a job
-- Improving my skills every day
-- Building projects with actual purpose
-- Trying new things and experimenting with some ideas
+I'm actively looking for my first professional experience. And in the meantime, I'm improving my skills, building projects, and experimenting with new ideas.
 
 ### 🌈 Fun Facts
 
@@ -31,7 +22,5 @@ I care about making things clean, fast, and easy to use.
 - I have 2 dogs 🐶
 - I’m a pretty curious person, always thinking about ideas
 - Sometimes I just go for a walk to clear my head or think about stuff
-
----
 
 I keep most projects private until they reach MVP, but feel free to reach out 🙂
