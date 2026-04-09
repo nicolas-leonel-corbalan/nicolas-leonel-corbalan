@@ -21,6 +21,6 @@ I'm actively looking for my first professional experience. And in the meantime, 
 - I don’t drink coffee (yeah, weird for a dev)
 - I have 2 dogs 🐶
 - I’m a pretty curious person, always thinking about ideas
-- Sometimes I just go for a walk to clear my head or think about stuff
+- When I get stuck, I go for a walk and let my brain figure things out
 
 I keep most projects private until they reach MVP, but feel free to reach out 🙂
